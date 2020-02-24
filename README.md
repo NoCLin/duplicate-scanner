@@ -12,8 +12,9 @@
 ## strategy
 
 1. group by size OR size+filename (TODO)
-2. timestamp
+2. timestamp (TODO)
 3. group by hash of first chunk
+3. group by full hash
 
 ## Thanks
 
